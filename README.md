@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganeshpriyan M</h1> <h3 align="center">Computer Science and Engineering Student | MIT Campus, Anna University</h3> <p align="center"> 💡 Passionate about building intelligent systems, full-stack web applications,Data structures,Database Management and automation tools(Gen AI) that solve real-world problems. </p>
+<h1 align="center">Hi 👋, I'm Ganeshpriyan M</h1> <h3 align="center">Computer Science and Engineering Student | MIT Campus, Anna University</h3> <p align="center"> 💡 Passionate about building intelligent systems, full-stack web applications,Data structures,Database Management and automation tools     (Gen AI) that solve real-world problems. </p>
 🎓 Education:
 B.E. Computer Science and Engineering
 Anna University, MIT Campus — Expected Graduation: 2027

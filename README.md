@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ganeshpriyan M</h1> <h3 align="center">Computer Science and Engineering Student | MIT Campus, Anna University</h3> <p align="center"> 💡 Passionate about building intelligent systems, full-stack web applications, and automation tools that solve real-world problems. </p>
+<h1 align="center">Hi 👋, I'm Ganeshpriyan M</h1> <h3 align="center">Computer Science and Engineering Student | MIT Campus, Anna University</h3> <p align="center"> 💡 Passionate about building intelligent systems, full-stack web applications,Data structures,Database Management and automation tools(Gen AI) that solve real-world problems. </p>
 🎓 Education:
 B.E. Computer Science and Engineering
 Anna University, MIT Campus — Expected Graduation: 2027
@@ -12,6 +12,8 @@ Anna University, MIT Campus — Expected Graduation: 2027
 🤖 Build intelligent chatbots and data-driven apps using Python, Streamlit, and AI/ML frameworks
 
 💼 Design database-driven solutions using Oracle SQL, MongoDB, and MySQL
+
+🗃️ Having knowledge in Data Structures,Database Management System and Project Management
 
 📌 Currently Exploring:
 
@@ -32,8 +34,7 @@ Anna University, MIT Campus — Expected Graduation: 2027
 🤖 AI / ML & Data Science
 <p align="left"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/> <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </p>
 🧰 Software & Tools
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" alt="VS Code" />
-
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 
 
 

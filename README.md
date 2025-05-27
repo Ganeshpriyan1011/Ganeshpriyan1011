@@ -36,10 +36,10 @@ Anna University, MIT Campus — Expected Graduation: 2027
 🧰 Software & Tools
 <p align="left"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="Arduino" width="40" height="40"/>  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="MATLAB" width="40" height="40"/> </p><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
 
-
-
 🧠 Projects
+
 🔐 Cipher Text Encryption and Decryption
+
 Language: C
 Developed a simple text encryption and decryption system using classical cryptographic techniques. Supports key-based secure transformation and retrieval.
 

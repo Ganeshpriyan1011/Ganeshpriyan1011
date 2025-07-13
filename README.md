@@ -68,11 +68,6 @@ Tech Stack: HTML, CSS, JavaScript, Oracle SQLPlus
 
 Designed a web-based system for managing employee records with Create, Read, Update, Delete operations. Integrated with Oracle SQLPlus for backend data handling.
 
-🌱 Green Business Consultant Chatbot
-
-Tech Stack: Streamlit, TF-IDF, Cosine Similarity
-
-An AI-powered chatbot that answers sustainability and eco-business queries. Uses NLP techniques for analysis and maintains interaction logs.
 
 🔗 Try it here: https://business-chatbot-ganesh1011.streamlit.app/
 

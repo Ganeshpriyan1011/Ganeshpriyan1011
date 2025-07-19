@@ -69,7 +69,7 @@ Tech Stack: HTML, CSS, JavaScript, Oracle SQLPlus
 Designed a web-based system for managing employee records with Create, Read, Update, Delete operations. Integrated with Oracle SQLPlus for backend data handling.
 
 
-🔗 Try it here: https://business-chatbot-ganesh1011.streamlit.app/
+🔗 Try it here: https://templechatbot.streamlit.app/
 
 📫 Connect with Me:
 www.linkedin.com/in/ganeshpriyan-mohan-680814323

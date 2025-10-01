@@ -14,7 +14,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://templechatbot.streamlit.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
-<img src="https://komarev.com/ghpvc/?username=ganeshpriyan&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=ganeshpriyan1011&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
 </div>
 
@@ -229,11 +229,11 @@ Comprehensive trip planning tool:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganeshpriyan&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshpriyan&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=ganeshpriyan1011&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=ganeshpriyan1011&theme=radical&hide_border=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpriyan&layout=compact&theme=radical&hide_border=true" />
-<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpriyan&theme=react-dark&hide_border=true&area=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ganeshpriyan1011&layout=compact&theme=radical&hide_border=true" />
+<img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpriyan1011&theme=react-dark&hide_border=true&area=true" />
 
 </div>
 
@@ -243,7 +243,7 @@ Comprehensive trip planning tool:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpriyan&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpriyan1011&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -322,7 +322,7 @@ mindmap
 
 <div align="center">
 
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshpriyan&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshpriyan1011&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 

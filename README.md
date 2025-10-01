@@ -391,7 +391,7 @@ journey
 
 <div align="center">
 
-[![Ganesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ganeshpriyan1011&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ganeshpriyan1011&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff)](https://github.com/ganeshpriyan1011)
 
 </div>
 
@@ -423,7 +423,7 @@ journey
 
 ### 🌐 **Community & Growth**
 
-<img src="https://img.icons8.com/fluency/96/000000/community.png" width="60"/>
+<img src="https://img.icons8.com/color/96/000000/collaboration.png" width="60"/>
 
 ```diff
 + Mentor 10+ Junior Developers
@@ -493,7 +493,7 @@ AI/ML              ████████████░░░░░░░░ 
 
 <div align="center">
 
-### 🎨 "Debug my ways to compile my Dreams" -Ganeshpriyan M
+### 🎨 "Code is like humor. When you have to explain it, it's bad." - Cory House
 
 **Made with 💙 and lots of ☕ by Ganeshpriyan M**
 

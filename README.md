@@ -411,11 +411,13 @@ journey
 
 ### 📊 Progress Tracker
 
-<img src="https://progress-bar.dev/35/?title=Blockchain&width=400&color=6a1b9a" />
-<img src="https://progress-bar.dev/65/?title=Full-Stack&width=400&color=00897b" />
-<img src="https://progress-bar.dev/50/?title=AI/ML&width=400&color=e65100" />
-<img src="https://progress-bar.dev/40/?title=Cloud&width=400&color=1565c0" />
-<img src="https://progress-bar.dev/70/?title=DSA&width=400&color=c62828" />
+![JavaScript](https://progress-bar.dev/75/?title=JavaScript/Node.js&width=400&color=f7df1e)
+![React](https://progress-bar.dev/70/?title=React.js&width=400&color=61dafb)
+![C/C++](https://progress-bar.dev/80/?title=C/C++&width=400&color=00599C)
+![Java](https://progress-bar.dev/65/?title=Java&width=400&color=ED8B00)
+![Python](https://progress-bar.dev/70/?title=Python&width=400&color=3776AB)
+![Databases](https://progress-bar.dev/75/?title=MongoDB/SQL&width=400&color=4EA94B)
+![AI/ML](https://progress-bar.dev/60/?title=AI/ML&width=400&color=e65100)
 
 </div>
 

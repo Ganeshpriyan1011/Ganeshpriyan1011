@@ -12,7 +12,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshpriyan-mohan-680814323)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://templechatbot.streamlit.app/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshpriyanmohan@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=ganeshpriyan1011&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
 
@@ -243,7 +243,7 @@ Comprehensive trip planning tool:
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpriyan1011&theme=radical&no-frame=true&no-bg=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ganeshpriyan1011&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15&exclude=Stars,Issues,PullRequest)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -286,33 +286,73 @@ journey
 
 ---
 
-## 🌱 Learning Roadmap 2025
+## 🌱 2025 Learning Roadmap
 
 <div align="center">
 
-```mermaid
-mindmap
-  root((2025 Goals))
-    Blockchain
-      Solidity
-      Smart Contracts
-      Web3.js
-      DApp Development
-    Cloud
-      AWS Certification
-      Kubernetes
-      Microservices
-      CI/CD Pipelines
-    AI/ML
-      Deep Learning
-      TensorFlow
-      Computer Vision
-      NLP Projects
-    Open Source
-      Contribute to Projects
-      Build Libraries
-      Community Engagement
+<table>
+<tr>
+<td width="25%" align="center">
+<img src="https://img.icons8.com/color/96/000000/blockchain-technology.png" width="80"/>
+
+### 🔗 **Blockchain**
 ```
+├─ Solidity
+├─ Smart Contracts
+├─ Web3.js & Ethers.js
+├─ DApp Development
+└─ NFT Standards
+```
+</td>
+
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/cloud.png" width="80"/>
+
+### ☁️ **Cloud & DevOps**
+```
+├─ AWS Solutions
+├─ Docker & K8s
+├─ CI/CD Pipelines
+├─ Microservices
+└─ Terraform
+```
+</td>
+
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/brain.png" width="80"/>
+
+### 🤖 **AI/ML Deep Dive**
+```
+├─ Deep Learning
+├─ TensorFlow/PyTorch
+├─ Computer Vision
+├─ NLP Advanced
+└─ Model Deployment
+```
+</td>
+
+<td width="25%" align="center">
+<img src="https://img.icons8.com/fluency/96/000000/source-code.png" width="80"/>
+
+### 🌐 **Open Source**
+```
+├─ Major Contributions
+├─ Build Libraries
+├─ Tech Blogging
+├─ Community Lead
+└─ Mentorship
+```
+</td>
+</tr>
+</table>
+
+### 📅 Quarterly Milestones
+
+| Q1 2025 | Q2 2025 | Q3 2025 | Q4 2025 |
+|---------|---------|---------|---------|
+| 🔗 Blockchain Basics | ☁️ Cloud Certification | 🤖 ML Production | 🚀 Full-Stack Portfolio |
+| 📚 Solidity Projects | 🐳 Docker Mastery | 🧠 DL Models | 🌟 Open Source Lead |
+| 🎯 3 DApps Built | 🔄 CI/CD Setup | 👁️ Computer Vision | 📝 10 Tech Articles |
 
 </div>
 
@@ -328,42 +368,56 @@ mindmap
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2025 Goals & Focus Areas
+
+<div align="center">
 
 <table>
 <tr>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### 🚀 Technical
+### 🚀 **Technical Mastery**
 
-- ✅ Master Blockchain Development
-- ✅ Build 5 Full-Stack Projects
-- ✅ Contribute to 10+ Open Source
-- ✅ Learn Cloud Architecture
+<img src="https://img.icons8.com/fluency/96/000000/rocket.png" width="60"/>
 
-</td>
-<td width="33%" align="center">
-
-### 🏆 Achievements
-
-- 🎯 Complete 3 Certifications
-- 🏅 Win a Hackathon
-- 📝 Write 12 Tech Blogs
-- 🎤 Give 2 Tech Talks
+```diff
++ Master Blockchain & Web3 Development
++ Build 5+ Production-Ready Full-Stack Apps
++ Contribute to 10+ Open Source Projects
++ Learn Advanced Cloud Architecture (AWS/Azure)
++ Deep Dive into AI/ML with Real Projects
++ Master Data Structures & Algorithms
+```
 
 </td>
-<td width="33%" align="center">
+<td width="50%" align="center">
 
-### 🌐 Community
+### 🌐 **Community & Growth**
 
-- 👥 Mentor 10+ Developers
-- 🤝 Collaborate on Projects
-- 📚 Create Learning Resources
-- 💬 Active in Tech Forums
+<img src="https://img.icons8.com/fluency/96/000000/community.png" width="60"/>
+
+```diff
++ Mentor 10+ Junior Developers
++ Collaborate on Innovative Projects
++ Create Educational Content & Tutorials
++ Active Participation in Tech Forums
++ Lead Open Source Initiatives
++ Build Developer Community
+```
 
 </td>
 </tr>
 </table>
+
+### 📊 Progress Tracker
+
+<img src="https://progress-bar.dev/35/?title=Blockchain&width=400&color=6a1b9a" />
+<img src="https://progress-bar.dev/65/?title=Full-Stack&width=400&color=00897b" />
+<img src="https://progress-bar.dev/50/?title=AI/ML&width=400&color=e65100" />
+<img src="https://progress-bar.dev/40/?title=Cloud&width=400&color=1565c0" />
+<img src="https://progress-bar.dev/70/?title=DSA&width=400&color=c62828" />
+
+</div>
 
 ---
 
@@ -371,12 +425,11 @@ mindmap
 
 <div align="center">
 
-### 💬 Feel free to reach out for collaborations or just a friendly chat!
+### 💬 Open for collaborations, discussions, and innovative projects!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshpriyan-mohan-680814323)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-[![Twitter](https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)
-[![Discord](https://img.shields.io/badge/Discord-Chat-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshpriyanmohan@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://templechatbot.streamlit.app/)
 
 <br/>
 

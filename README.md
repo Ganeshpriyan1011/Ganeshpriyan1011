@@ -1,13 +1,36 @@
 <div align="center">
 
-# 👋 Hi, I'm **Ganeshpriyan M**
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ganeshpriyan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
-### 🎓 B.E. Computer Science & Engineering | Anna University, MIT Campus
+<br/>
+
+<table>
+<tr>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/graduation-cap.png" width="60"/>
+
+### 🎓 Education
+**B.E. Computer Science & Engineering**  
+🏛️ Anna University, MIT Campus  
+📅 Class of 2027
+</td>
+<td align="center" width="50%">
+<img src="https://img.icons8.com/fluency/96/000000/internet.png" width="60"/>
+
+### 🌍 Location
+**Chennai, Tamil Nadu**  
+🇮🇳 India  
+🕐 IST (UTC +5:30)
+</td>
+</tr>
+</table>
 
 <p>
-💡 <i>Building intelligent systems and scalable applications that bridge technology with real-world impact</i>
+<img src="https://img.icons8.com/fluency/48/000000/idea.png" width="30"/> 
+<i><b>Building intelligent systems and scalable applications that bridge technology with real-world impact</b></i>
+<img src="https://img.icons8.com/fluency/48/000000/idea.png" width="30"/>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ganeshpriyan-mohan-680814323)
@@ -15,6 +38,8 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganeshpriyanmohan@gmail.com)
 
 <img src="https://komarev.com/ghpvc/?username=ganeshpriyan1011&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 
 </div>
 
@@ -409,15 +434,34 @@ journey
 </tr>
 </table>
 
-### 📊 Progress Tracker
+### 📊 Skill Proficiency
 
-![JavaScript](https://progress-bar.dev/75/?title=JavaScript/Node.js&width=400&color=f7df1e)
-![React](https://progress-bar.dev/70/?title=React.js&width=400&color=61dafb)
-![C/C++](https://progress-bar.dev/80/?title=C/C++&width=400&color=00599C)
-![Java](https://progress-bar.dev/65/?title=Java&width=400&color=ED8B00)
-![Python](https://progress-bar.dev/70/?title=Python&width=400&color=3776AB)
-![Databases](https://progress-bar.dev/75/?title=MongoDB/SQL&width=400&color=4EA94B)
-![AI/ML](https://progress-bar.dev/60/?title=AI/ML&width=400&color=e65100)
+<table>
+<tr>
+<td width="50%">
+
+**💻 Programming Languages**
+```
+JavaScript/Node.js  ████████████████░░░░  75%
+C/C++              ████████████████░░░░  80%
+Java               █████████████░░░░░░░  65%
+Python             ██████████████░░░░░░  70%
+```
+
+</td>
+<td width="50%">
+
+**🛠️ Technologies & Tools**
+```
+React.js           ██████████████░░░░░░  70%
+MongoDB/SQL        ███████████████░░░░░  75%
+Express.js         ██████████████░░░░░░  70%
+AI/ML              ████████████░░░░░░░░  60%
+```
+
+</td>
+</tr>
+</table>
 
 </div>
 

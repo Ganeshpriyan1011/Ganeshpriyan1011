@@ -69,9 +69,9 @@ const ganeshpriyan = {
 ### 💻 What I Do
 
 - 🌐 Build **scalable web applications** with MERN Stack
-- 🔐 Develop **secure system-level** apps in C/C++
+- 🔐 Develop **secure system-level** apps in C/C++/Java
 - 🤖 Create **AI-powered solutions** using Python & ML
-- 💾 Design **database-driven systems** with SQL & NoSQL
+- 💾 Design **database-driven systems** with SQL & MongoDB
 - 📊 Explore **Data Science** for predictive modeling
 
 </td>
@@ -80,13 +80,13 @@ const ganeshpriyan = {
 ### 🎯 Currently Exploring
 
 - 🔗 **Blockchain Development**  
-  Smart Contracts, DApps, Web3
+  Smart Contracts, Solidity
   
 - 📊 **Data Science & Analytics**  
   Pandas, Scikit-learn, Visualization
   
 - ☁️ **Cloud Architecture**  
-  Azure, AWS, Microservices
+  Azure
 
 </td>
 </tr>

@@ -158,7 +158,7 @@ A full-stack fantasy cricket platform with:
 
 **Tech**: React.js • Node.js • Express.js • MongoDB
 
-[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com)
+[![View Project](https://img.shields.io/badge/View-Project-blue?style=for-the-badge)](https://github.com/Ganeshpriyan1011/Fantasy-cricket-app)
 
 </td>
 <td width="50%">
@@ -193,7 +193,7 @@ Secure banking system featuring:
 
 **Tech**: C++ • File I/O • OOP
 
-[![Explore Code](https://img.shields.io/badge/Explore-Code-orange?style=for-the-badge)](https://github.com)
+[![Explore Code](https://img.shields.io/badge/Explore-Code-orange?style=for-the-badge)](https://github.com/Ganeshpriyan1011/Bank_Management_System)
 
 </td>
 <td width="50%">
@@ -209,7 +209,7 @@ Complete employee management with:
 
 **Tech**: HTML • CSS • JavaScript • Oracle SQL
 
-[![View Code](https://img.shields.io/badge/View-Code-red?style=for-the-badge)](https://github.com)
+[![View Code](https://img.shields.io/badge/View-Code-red?style=for-the-badge)](https://github.com/Ganeshpriyan1011/Database-frontend-3505)
 
 </td>
 </tr>
@@ -228,7 +228,7 @@ Classical cryptography system:
 
 **Tech**: C • Cryptography • Algorithms
 
-[![Source Code](https://img.shields.io/badge/Source-Code-purple?style=for-the-badge)](https://github.com)
+[![Source Code](https://img.shields.io/badge/Source-Code-purple?style=for-the-badge)](https://github.com/Ganeshpriyan1011/Cipher_validator)
 
 </td>
 <td width="50%">
@@ -244,7 +244,7 @@ Comprehensive trip planning tool:
 
 **Tech**: Java • Swing/JavaFX • OOP
 
-[![Get Code](https://img.shields.io/badge/Get-Code-green?style=for-the-badge)](https://github.com)
+[![Get Code](https://img.shields.io/badge/Get-Code-green?style=for-the-badge)](https://github.com/Lokesh-1511/Travel-Planner)
 
 </td>
 </tr>
@@ -493,7 +493,7 @@ AI/ML              ████████████░░░░░░░░ 
 
 <div align="center">
 
-### 🎨 "Code is like humor. When you have to explain it, it's bad." - Cory House
+### 🎨 "Debug my ways to compile my dreams" - Ganeshpriyan M
 
 **Made with 💙 and lots of ☕ by Ganeshpriyan M**
 

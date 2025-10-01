@@ -1,8 +1,8 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ganeshpriyan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,I'm Ganeshpriyan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%9A%80;Tech+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
 <br/>
 
@@ -14,7 +14,7 @@
 ### 🎓 Education
 **B.E. Computer Science & Engineering**  
 🏛️ Anna University, MIT Campus  
-📅 Class of 2027
+📅 Graduation at 2027
 </td>
 <td align="center" width="50%">
 <img src="https://img.icons8.com/fluency/96/000000/internet.png" width="60"/>

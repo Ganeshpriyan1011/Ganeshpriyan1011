@@ -391,7 +391,7 @@ journey
 
 <div align="center">
 
-[![Ganesh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=ganeshpriyan1011&theme=high-contrast&hide_border=true&area=true&bg_color=0d1117&color=ff6b35&line=ff6b35&point=ffffff)](https://github.com/ganeshpriyan1011)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ganeshpriyan1011&theme=react-dark&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Activity Graph" width="100%"/>
 
 </div>
 

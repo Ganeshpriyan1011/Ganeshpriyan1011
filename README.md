@@ -1,8 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi,I'm Ganeshpriyan%20M&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Ganeshpriyan%20M&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%9A%80;Tech+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<h1>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=FF6B35&center=true&vCenter=true&width=800&lines=Welcome+to+My+Digital+Space+%F0%9F%91%8B;Computer+Science+Engineer+%F0%9F%92%BB;Full+Stack+Developer+%F0%9F%8C%90;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Problem+Solver+%F0%9F%9A%80;Building+The+Future+%E2%9C%A8" alt="Typing SVG" />
+</h1>
 
 <br/>
 
@@ -43,12 +45,14 @@
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🚀 About Me
 
 ```javascript
 const ganeshpriyan = {
+    name: "Ganeshpriyan M",
+    role: "Computer Science Engineer",
     location: "Chennai, Tamil Nadu 🇮🇳",
     education: "Anna University, MIT Campus",
     graduationYear: 2027,
@@ -88,7 +92,7 @@ const ganeshpriyan = {
 </tr>
 </table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🛠️ Tech Arsenal
 
@@ -133,7 +137,7 @@ const ganeshpriyan = {
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🎯 Featured Projects
 
@@ -248,7 +252,7 @@ Comprehensive trip planning tool:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 📊 GitHub Statistics
 
@@ -262,7 +266,7 @@ Comprehensive trip planning tool:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🏆 GitHub Trophies
 
@@ -272,7 +276,7 @@ Comprehensive trip planning tool:
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 💡 Tech Journey
 
@@ -292,7 +296,7 @@ journey
       Open Source Contrib: 5: Me
 ```
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🎓 Skills Matrix
 
@@ -309,7 +313,7 @@ journey
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🌱 2025 Learning Roadmap
 
@@ -381,7 +385,7 @@ journey
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 📈 Activity Graph
 
@@ -391,7 +395,7 @@ journey
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 🎯 2025 Goals & Focus Areas
 
@@ -465,7 +469,7 @@ AI/ML              ████████████░░░░░░░░ 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 ## 📫 Let's Connect!
 
@@ -485,7 +489,7 @@ AI/ML              ████████████░░░░░░░░ 
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%">
 
 <div align="center">
 
